@@ -9,3 +9,5 @@ baseurl: /mh-soar-plus-user-guide
 just_the_docs:
   navigation_depth: 3
   search_enabled: true
+  custom_css:
+    - assets/css/custom.css
