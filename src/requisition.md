@@ -1,4 +1,4 @@
-## Requisition
+# Requisition
 
 The **Requisition** feature allows store crews to **request products** from the main system.
 
