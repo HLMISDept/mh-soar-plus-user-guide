@@ -55,7 +55,6 @@ Select the template you want to manage.
 
 ---
 
-## Editing a Template
 
 ### Step 3: Open the template
 
