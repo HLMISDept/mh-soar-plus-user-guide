@@ -1,4 +1,4 @@
-## Inventory
+# Inventory
 
 The **Inventory** menu is used to **update the store’s existing inventory quantities**.
 
